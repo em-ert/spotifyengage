@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to SpotifyEngage
 
-You can use the [editor on GitHub](https://github.com/em-ert/spotifyengage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## This projects uses your spotify data to do one of three things:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Find songs with in matching keys with similar tempos for remixing music from:
+  * Your library
+  * Other Spotify Playlists
+2. Generate a playlist of new music based on music you listen to
+3. Play a game to test your knowledge of:
+  * Your entire music library
+  * A playlist
 
-### Markdown
+## What would you like to start with?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Remix Assistant
+![Remix Assistant](https://toolroomacademy.com/wp-content/uploads/2018/01/103990-1280px-1024x682.jpg)
 
-```markdown
-Syntax highlighted code block
+### Playlist Generator
+![Playlist Generator](https://bgr.com/wp-content/uploads/2021/02/Spotify-Liked-Songs.jpg?quality=70&strip=all)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/em-ert/spotifyengage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Music Identification Game
+![Music Identification Game](https://a1-images.myspacecdn.com/images03/30/401eb3e1022a4929a1b7b6a90ad4df2b/600x600.jpg)
